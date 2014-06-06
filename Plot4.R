@@ -1,7 +1,7 @@
 #Programmer: James Van Campen
 #Class: Exploratory Data Analysis
 #Assignment: 1
-#Plot: 3
+#Plot: 4
 setwd("C:\\Users\\liberty\\Documents\\James\\Exploratory_Data_Analysis\\ExData_Plotting1")
 
 #Download, unzip, and read into R 
